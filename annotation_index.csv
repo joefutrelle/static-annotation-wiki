@@ -112,11 +112,14 @@ Diatoms,Odontella_mobiliensis,http://phyto-optics.gso.uri.edu:8888/GSODock/D2018
 Diatoms,Proboscia,https://ifcb-data.whoi.edu/mvco/IFCB1_2006_310_180123_03647.png
 Diatoms,Raphoneis,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_326_184000_00506.png
 Diatoms,Striatella unipunctata,https://ifcb-data.whoi.edu/mvco/IFCB1_2007_183_103516_00155.png
+Diatoms,Thalassiosira_rotula,https://ifcb-data.whoi.edu/mvco/IFCB1_2007_045_005405_00001.png
+Diatoms,Thalassiosira sp aff mala,https://ifcb-data.whoi.edu/mvco/D20181120T202552_IFCB010_00536.png
 Flagellates,Apedinella,https://ifcb-data.whoi.edu/mvco/IFCB1_2009_158_002209_01049.png
 Flagellates,Chroomonas,https://ifcb-data.whoi.edu/SPIROPA/D20190706T013729_IFCB129_00109.png
 Flagellates,crypto,https://ifcb-data.whoi.edu/mvco/IFCB5_2015_084_120405_00087.png
 Flagellates,flagellate,
-Flagellates,flagellate_sp1,https://ifcb-data.whoi.edu/mvco/IFCB1_2010_040_212550_01309.png
+Flagellates,flagellate morphotype1,https://ifcb-data.whoi.edu/mvco/IFCB1_2010_040_212550_01309.png
+Flagellates,flagellate morphotype3,https://ifcb-data.whoi.edu/mvco/IFCB1_2014_176_155350_02778.png
 Flagellates,Pterosperma,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_228_170529_02315.png
 Flagellates,Pyramimonas,https://ifcb-data.whoi.edu/mvco/IFCB5_2015_015_053237_00720.png
 Dinoflagellates,Asterodinium,https://ifcb-data.whoi.edu/SPIROPA/D20190706T163053_IFCB129_02423.png
@@ -124,10 +127,14 @@ Dinoflagellates,Ceratium_furca,https://ifcb-data.whoi.edu/mvco/D20181008T220407_
 Dinoflagellates,Ceratium_fusus,https://ifcb-data.whoi.edu/mvco/IFCB5_2016_167_185728_06317.png
 Dinoflagellates,Ceratium_lineatum,https://ifcb-data.whoi.edu/mvco/D20180905T104808_IFCB010_00221.png
 Dinoflagellates,Margalefidinium,https://ifcb-data.whoi.edu/mvco/IFCB1_2009_262_001431_09002.png
+Dinoflagellates,Dinophyceae morphotype 2,https://ifcb-data.whoi.edu/mvco/D20180827T050444_IFCB125_00191.png
+Dinoflagellates,Dinophyceae morphotype 1,https://ifcb-data.whoi.edu/mvco/D20180814T221437_IFCB125_00815.png
 Dinoflagellates,Gymnodinium,http://phyto-optics.gso.uri.edu:8888/GSODock/D20180326T211700_IFCB120_00689.png
 Dinoflagellates,Heterocapsa_rotundata,https://ifcb-data.whoi.edu/mvco/IFCB5_2010_320_201135_00830.png
+Dinoflagellates,Oxyrrhis,https://ifcb-data.whoi.edu/mvco/D20180814T040542_IFCB125_01012.png
 Dinoflagellates,Podolampas,https://ifcb-data.whoi.edu/SPIROPA/D20190718T001536_IFCB129_01536.png
 Dinoflagellates,Polykrikos,https://ifcb-data.whoi.edu/mvco/IFCB1_2012_277_190646_02381.png
+Dinoflagellates,unknown3_squiggle,https://ifcb-data.whoi.edu/SPIROPA/D20180814T040542_IFCB125_00754.png
 Dinoflagellates,Warnowia,https://ifcb-data.whoi.edu/SPIROPA/D20190706T110535_IFCB129_02443.png
 Ciliates,Dictyocysta,https://ifcb-data.whoi.edu/SPIROPA/D20190714T155706_IFCB129_02322.png
 Ciliates,Euplotes,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_024_094617_01475.png
@@ -144,10 +151,15 @@ Ciliates,Tintinnopsis,https://ifcb-data.whoi.edu/mvco/IFCB1_2008_114_060422_0542
 Coccolithophore,Acanthoica_quattrospina,https://ifcb-data.whoi.edu/mvco/IFCB5_2017_319_174459_01683.png
 Coccolithophore,Emiliania_huxleyi,https://ifcb-data.whoi.edu/mvco/IFCB5_2013_352_091741_00453.png
 Coccolithophore,Calciopappus,https://ifcb-data.whoi.edu/mvco/IFCB1_2009_262_003744_06032.png
+Coccolithophore,coccolithophorid,https://ifcb-data.whoi.edu/EXPORTS/D20180814T040542_IFCB125_01780.png
 Coccolithophore,Ophiaster,https://ifcb-data.whoi.edu/NESLTER_transect/D20180203T131156_IFCB102_01089.png
 Coccolithophore,Rhabdosphaera,https://ifcb-data.whoi.edu/SPIROPA/D20190708T160217_IFCB129_00551.png
 Coccolithophore,Syracosphaera_pulchra,https://ifcb-data.whoi.edu/mvco/IFCB5_2010_255_190756_04230.png
+Miscellaneous,colony,https://ifcb-data.whoi.edu/EXPORTS/D20180818T182207_IFCB125_01574.png
+Miscellaneous,cresent,https://ifcb-data.whoi.edu/EXPORTS/D20180814T040542_IFCB125_06455.png
 Miscellaneous,detritus_clear,https://ifcb-data.whoi.edu/SPIROPA/D20190706T013729_IFCB129_00554.png
+Miscellaneous,fecal pellet,https://ifcb-data.whoi.edu/SPIROPA/D20190203T000734_IFCB127_05336.png
+Miscellaneous,fiber,https://ifcb-data.whoi.edu/mvco/D20180818T000234_IFCB125_08058.png
 Miscellaneous,Grazing,https://ifcb-data.whoi.edu/mvco/IFCB1_2008_350_021139_00717.png
 Miscellaneous,unidentified,
 Miscellaneous,Radiolarian,https://ifcb-data.whoi.edu/mvco/IFCB5_2016_230_171538_04645.png
