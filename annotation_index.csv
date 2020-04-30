@@ -1,5 +1,5 @@
 group,class,image
-Diatoms,Asterionellopsis,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_229_100026_07452.png
+Diatoms,Asterionellopsis glacialis,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_229_100026_07452.png
 Diatoms,Bacillaria,https://ifcb-data.whoi.edu/mvco/IFCB1_2012_269_082508_00984.png
 Diatoms,Bidulphia,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_218_140300_04067.png
 Diatoms,Cerataulina,https://ifcb-data.whoi.edu/mvco/IFCB5_2015_015_055550_00330.png
@@ -10,7 +10,7 @@ Diatoms,Chaetoceros_didymus_flagellate,https://ifcb-data.whoi.edu/mvco/IFCB5_201
 Diatoms,Chaetoceros_flagellate,https://ifcb-data.whoi.edu/mvco/IFCB1_2010_012_192259_01419.png
 Diatoms,Chaetoceros_other,
 Diatoms,Chaetoceros_pennate,https://ifcb-data.whoi.edu/mvco/IFCB1_2010_078_185738_02724.png
-Diatoms,Corethron,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_038_080229_03192.png
+Diatoms,Corethron hystrix,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_038_080229_03192.png
 Diatoms,Coscinodiscus,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_039_040304_02082.png
 Diatoms,Cylindrotheca,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_009_212600_03474.png
 Diatoms,DactFragCerataul,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_152_143420_00371.png
@@ -28,13 +28,13 @@ Diatoms,Guinardia_delicatula,https://ifcb-data.whoi.edu/mvco/IFCB5_2015_020_0222
 Diatoms,Guinardia_flaccida,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_023_192345_03677.png
 Diatoms,Guinardia_striata,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_041_214542_01687.png
 Diatoms,Hemiaulus,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_242_193108_06862.png
-Diatoms,Lauderia,https://ifcb-data.whoi.edu/mvco/IFCB1_2010_001_212311_01103.png
+Diatoms,Lauderia annulata,https://ifcb-data.whoi.edu/mvco/IFCB1_2010_001_212311_01103.png
 Diatoms,Leptocylindrus,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_001_173655_04616.png
 Diatoms,Leptocylindrus_mediterraneus,https://ifcb-data.whoi.edu/mvco/IFCB1_2012_289_090719_00050.png
 Diatoms,Licmophora,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_361_065809_01423.png
 Diatoms,mix_elongated,
 Diatoms,Odontella,https://ifcb-data.whoi.edu/mvco/IFCB5_2014_001_181512_04985.png
-Diatoms,Paralia,https://ifcb-data.whoi.edu/mvco/IFCB5_2010_240_160500_02718.png
+Diatoms,Paralia sulcata,https://ifcb-data.whoi.edu/mvco/IFCB5_2010_240_160500_02718.png
 Diatoms,pennate,https://ifcb-data.whoi.edu/mvco/IFCB1_2009_276_181153_00430.png
 Diatoms,pennate_morphotype1,https://ifcb-data.whoi.edu/mvco/IFCB1_2013_302_163814_02962.png
 Diatoms,pennates_on_diatoms,
@@ -101,6 +101,7 @@ Miscellaneous,other_interaction,
 Miscellaneous,pollen,https://ifcb-data.whoi.edu/mvco/IFCB1_2009_122_221343_00065.png
 Miscellaneous,spore,
 Miscellaneous,zooplankton,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_208_191537_01078.png
+Diatoms,Cerataulina pelagica,https://ifcb-data.whoi.edu/mvco/IFCB5_2015_015_055550_00330.png
 Diatoms,Chaetoceros_curvisetus,https://ifcb-data.whoi.edu/mvco/IFCB1_2012_276_015541_01747.png
 Diatoms,Chaetoceros_danicus,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_076_132005_00400.png
 Diatoms,Chaetoceros_debilis,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_016_045749_00051.png
@@ -108,6 +109,9 @@ Diatoms,Chaetoceros_lorenzianus,http://phyto-optics.gso.uri.edu:8888/GSODock/D20
 Diatoms,Chaetoceros_peruvianis,
 Diatoms,Chaetoceros_socialis,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_100_153012_00085.png
 Diatoms,Chaetoceros_subtilis,https://ifcb-data.whoi.edu/mvco/IFCB1_2010_012_194611_02432.png
+Diatoms,Dactyliosolen fragilissimus,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_152_143420_00371.png
+Diatoms,Dactyliosolen blavyanus,https://ifcb-data.whoi.edu/mvco/IFCB1_2012_264_023346_00566.png
+Diatoms,Ditylum brightwellii,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_330_184411_03111.png
 Diatoms,Odontella_mobiliensis,http://phyto-optics.gso.uri.edu:8888/GSODock/D20181103T094644_IFCB120_03307.png
 Diatoms,Proboscia,https://ifcb-data.whoi.edu/mvco/IFCB1_2006_310_180123_03647.png
 Diatoms,Raphoneis,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_326_184000_00506.png

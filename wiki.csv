@@ -1,9 +1,9 @@
 class,image
-Asterionellopsis,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_229_100026_07452.png
-Asterionellopsis,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_215_162640_01919.png
-Asterionellopsis,https://ifcb-data.whoi.edu/mvco/IFCB1_2007_365_162513_01636.png
-Asterionellopsis,https://ifcb-data.whoi.edu/mvco/IFCB1_2008_001_004404_01028.png
-Asterionellopsis,https://ifcb-data.whoi.edu/mvco/D20170525T115942_IFCB010_00512.png
+Asterionellopsis glacialis,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_229_100026_07452.png
+Asterionellopsis glacialis,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_215_162640_01919.png
+Asterionellopsis glacialis,https://ifcb-data.whoi.edu/mvco/IFCB1_2007_365_162513_01636.png
+Asterionellopsis glacialis,https://ifcb-data.whoi.edu/mvco/IFCB1_2008_001_004404_01028.png
+Asterionellopsis glacialis,https://ifcb-data.whoi.edu/mvco/D20170525T115942_IFCB010_00512.png
 Bacillaria,https://ifcb-data.whoi.edu/mvco/IFCB5_2010_271_040557_03427.png
 Bacillaria,https://ifcb-data.whoi.edu/mvco/IFCB1_2012_269_082508_00984.png
 Bacillaria,https://ifcb-data.whoi.edu/mvco/IFCB5_2010_259_184200_01950.png
@@ -17,10 +17,10 @@ Bidulphia,https://ifcb-data.whoi.edu/mvco/IFCB1_2009_288_130947_00590.png
 Bidulphia,https://ifcb-data.whoi.edu/mvco/IFCB1_2009_292_003918_05354.png
 Bidulphia,https://ifcb-data.whoi.edu/mvco/IFCB1_2011_270_185023_03876.png
 Bidulphia,https://ifcb-data.whoi.edu/mvco/IFCB1_2012_283_044007_00054.png
-Cerataulina,https://ifcb-data.whoi.edu/mvco/IFCB5_2015_042_054946_00650.png
-Cerataulina,https://ifcb-data.whoi.edu/mvco/IFCB5_2015_015_055550_00330.png
-Cerataulina,https://ifcb-data.whoi.edu/mvco/IFCB5_2015_042_054946_01908.png
-Cerataulina,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_201_185113_07469.png
+Cerataulina pelagica,https://ifcb-data.whoi.edu/mvco/IFCB5_2015_042_054946_00650.png
+Cerataulina pelagica,https://ifcb-data.whoi.edu/mvco/IFCB5_2015_015_055550_00330.png
+Cerataulina pelagica,https://ifcb-data.whoi.edu/mvco/IFCB5_2015_042_054946_01908.png
+Cerataulina pelagica,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_201_185113_07469.png
 Cerataulina_flagellate,https://ifcb-data.whoi.edu/mvco/IFCB1_2008_236_000420_00750.png
 Cerataulina_flagellate,https://ifcb-data.whoi.edu/mvco/IFCB1_2012_266_095649_03125.png
 Chaetoceros,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_214_202628_00107.png
@@ -54,9 +54,9 @@ Chaetoceros_other,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_318_030612_01794.pn
 Chaetoceros_pennate,https://ifcb-data.whoi.edu/mvco/IFCB1_2010_078_185738_02724.png
 Chaetoceros_pennate,https://ifcb-data.whoi.edu/mvco/IFCB5_2010_239_185422_01115.png
 Chaetoceros_pennate,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_233_154446_06950.png
-Corethron,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_038_080229_03192.png
-Corethron,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_001_165030_05039.png
-Corethron,https://ifcb-data.whoi.edu/mvco/IFCB1_2010_001_221003_00846.png
+Corethron hystrix,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_038_080229_03192.png
+Corethron hystrix,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_001_165030_05039.png
+Corethron hystrix,https://ifcb-data.whoi.edu/mvco/IFCB1_2010_001_221003_00846.png
 Coscinodiscus,https://ifcb-data.whoi.edu/mvco/IFCB1_2006_275_215903_02949.png
 Coscinodiscus,https://ifcb-data.whoi.edu/mvco/IFCB1_2009_287_210109_08309.png
 Coscinodiscus,https://ifcb-data.whoi.edu/mvco/IFCB5_2016_239_081749_07248.png
@@ -66,14 +66,14 @@ Cylindrotheca,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_009_212600_03474.png
 Cylindrotheca,https://ifcb-data.whoi.edu/mvco/IFCB1_2009_195_212603_04807.png
 Cylindrotheca,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_009_212600_01173.png
 Cylindrotheca,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_232_231225_00726.png
-DactFragCerataul,https://ifcb-data.whoi.edu/mvco/IFCB1_2007_024_215846_01649.png
-DactFragCerataul,https://ifcb-data.whoi.edu/mvco/IFCB5_2013_235_180640_06052.png
-DactFragCerataul,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_326_173024_01015.png
-DactFragCerataul,https://ifcb-data.whoi.edu/mvco/IFCB5_2010_360_192539_03666.png
-DactFragCerataul,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_152_143420_00371.png
-DactFragCerataul,https://ifcb-data.whoi.edu/mvco/IFCB1_2007_092_114113_00964.png
-Dactyliosolen,https://ifcb-data.whoi.edu/mvco/IFCB1_2011_270_191038_04254.png
-Dactyliosolen,https://ifcb-data.whoi.edu/mvco/IFCB1_2012_264_023346_00566.png
+Dactyliosolen fragilissimus,https://ifcb-data.whoi.edu/mvco/IFCB1_2007_024_215846_01649.png
+Dactyliosolen fragilissimus,https://ifcb-data.whoi.edu/mvco/IFCB5_2013_235_180640_06052.png
+Dactyliosolen fragilissimus,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_326_173024_01015.png
+Dactyliosolen fragilissimus,https://ifcb-data.whoi.edu/mvco/IFCB5_2010_360_192539_03666.png
+Dactyliosolen fragilissimus,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_152_143420_00371.png
+Dactyliosolen fragilissimus,https://ifcb-data.whoi.edu/mvco/IFCB1_2007_092_114113_00964.png
+Dactyliosolen blavyanus,https://ifcb-data.whoi.edu/mvco/IFCB1_2011_270_191038_04254.png
+Dactyliosolen blavyanus,https://ifcb-data.whoi.edu/mvco/IFCB1_2012_264_023346_00566.png
 Delphineis,https://ifcb-data.whoi.edu/mvco/IFCB1_2009_315_172152_3197.png
 Delphineis,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_096_091011_02042.png
 Delphineis,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_361_063456_00891.png
@@ -95,9 +95,9 @@ diatom_flagellate,https://ifcb-data.whoi.edu/mvco/IFCB1_2008_218_001524_04127.pn
 diatom_flagellate,https://ifcb-data.whoi.edu/mvco/IFCB1_2009_247_162615_05901.png
 diatom_flagellate,https://ifcb-data.whoi.edu/mvco/IFCB1_2009_292_001605_03698.png
 diatom_flagellate,https://ifcb-data.whoi.edu/mvco/IFCB5_2013_325_230315_01350.png
-Ditylum,https://ifcb-data.whoi.edu/mvco/IFCB1_2012_291_124443_01548.png
-Ditylum,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_330_184411_03111.png
-Ditylum,https://ifcb-data.whoi.edu/mvco/IFCB1_2012_354_131614_01137.png
+Ditylum brightwellii,https://ifcb-data.whoi.edu/mvco/IFCB1_2012_291_124443_01548.png
+Ditylum brightwellii,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_330_184411_03111.png
+Ditylum brightwellii,https://ifcb-data.whoi.edu/mvco/IFCB1_2012_354_131614_01137.png
 Ditylum_parasite,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_047_185125_01617.png
 Ditylum_parasite,https://ifcb-data.whoi.edu/mvco/IFCB1_2009_031_145308_00267.png
 Ephemera,https://ifcb-data.whoi.edu/mvco/IFCB1_2009_210_184624_01773.png
@@ -142,8 +142,8 @@ Hemiaulus,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_239_175707_03640.png
 Hemiaulus,https://ifcb-data.whoi.edu/mvco/IFCB5_2010_259_182514_00090.png
 Hemiaulus,https://ifcb-data.whoi.edu/mvco/IFCB5_2010_249_025833_03488.png
 Hemiaulus,https://ifcb-data.whoi.edu/mvco/IFCB5_2012_239_175707_03279.png
-Lauderia,https://ifcb-data.whoi.edu/mvco/IFCB1_2008_318_195140_02131.png
-Lauderia,https://ifcb-data.whoi.edu/mvco/IFCB1_2010_001_212311_01103.png
+Lauderia annulata,https://ifcb-data.whoi.edu/mvco/IFCB1_2008_318_195140_02131.png
+Lauderia annulata,https://ifcb-data.whoi.edu/mvco/IFCB1_2010_001_212311_01103.png
 Leptocylindrus,https://ifcb-data.whoi.edu/mvco/IFCB5_2011_001_173655_04616.png
 Leptocylindrus,https://ifcb-data.whoi.edu/mvco/IFCB5_2014_328_152205_00600.png
 Leptocylindrus_mediterraneus,https://ifcb-data.whoi.edu/mvco/IFCB1_2012_289_090719_00050.png
@@ -162,8 +162,8 @@ Odontella_mobiliensis,https://ifcb-data.whoi.edu/mvco/IFCB5_2010_268_001054_0217
 Odontella_mobiliensis,http://phyto-optics.gso.uri.edu:8888/GSODock/D20181103T094644_IFCB120_03307.png
 Odontella_mobiliensis,http://phyto-optics.gso.uri.edu:8888/GSODock/D20181103T094644_IFCB120_01903.png
 Odontella_mobiliensis,http://phyto-optics.gso.uri.edu:8888/GSODock/D20181103T101111_IFCB120_02085.png
-Paralia,https://ifcb-data.whoi.edu/mvco/IFCB1_2008_090_194228_00154.png
-Paralia,https://ifcb-data.whoi.edu/mvco/IFCB5_2010_240_160500_02718.png
+Paralia sulcata,https://ifcb-data.whoi.edu/mvco/IFCB1_2008_090_194228_00154.png
+Paralia sulcata,https://ifcb-data.whoi.edu/mvco/IFCB5_2010_240_160500_02718.png
 pennate,https://ifcb-data.whoi.edu/mvco/IFCB1_2006_158_000036_00053.png
 pennate,https://ifcb-data.whoi.edu/mvco/IFCB1_2007_183_105701_00605.png
 pennate,https://ifcb-data.whoi.edu/mvco/IFCB1_2009_276_181153_00430.png
